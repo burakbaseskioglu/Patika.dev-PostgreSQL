@@ -1,0 +1,1 @@
+## SQL patikasında bulunan ödevlerin proje klasörü
